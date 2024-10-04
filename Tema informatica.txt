@@ -1,0 +1,9 @@
+### Gestion de simbolos(computacion simbolica)
+-La informacion entra en la computadora y sale en forma de informacion nueva.
+-Computar tiene relacion con gestionar simbolos.
+-Cuando existe un simbolo hay una asociacion mental entre los simbolos.
+-Un simbolo siempre tiene un significado
+### REPRESENTACION DE SIMBOLOS EN UNA MAQUINA CONVENCIONAL
+### Como es la memoria de un sisitema de iformacion
+-Es una disposicion lineal de posiciones de memoria del mismo tamaño
+-Los numeros pasan por el operador transformados en nueva informacion
